@@ -1,0 +1,29 @@
+_repo: The-Modern-Vikings-Stories-of-Life-and-Sport-in-the-Norseland_53070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boyesen, Hjalmar Hjorth
+    alias: Boyesen, Hjalmar H.
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '170'
+    url: http://www.gutenberg.org/2009/agents/170
+description: ''
+gutenberg_issued: '2016-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scandinavia -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Tharald's otter -- Between sea and sky -- Mikkel -- The famine among
+  the gnomes -- How Bernt went whaling -- The copper and the wolves -- Magnie's dangerous
+  ride -- Thorwald and the star-children -- Big Hans and Little Hans -- A new winter
+  sport -- The Skerry of Shrieks -- Fiddle-John's family.
+title: 'The Modern Vikings: Stories of Life and Sport in the Norseland'
+url: http://www.gutenberg.org/ebooks/53070
